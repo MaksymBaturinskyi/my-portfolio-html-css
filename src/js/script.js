@@ -1,5 +1,7 @@
-let menu = document.querySelector('.menu-icon'); 
-let navbar = document.querySelector('.navbar'); 
+'use strict';
+
+let menu = document.querySelector('.menu-icon');
+let navbar = document.querySelector('.navbar');
 
 
 menu.onclick = () => {
@@ -12,7 +14,6 @@ window.onscroll = () => {
     menu.classList.remove('move');
 }
 
-// Reviews Swiper
 const swiper = new Swiper('.reviews-content', {
     spaceBetween: 30,
     centeredSlides: true,
@@ -26,7 +27,6 @@ const swiper = new Swiper('.reviews-content', {
     },
 })
 
-// Email Js
 function validate() {
     let name = document.querySelector('.name')
     let email = document.querySelector('.email')
@@ -51,7 +51,7 @@ function sendmail(name,email,msg) {
         to_name: name,
         message: msg,
         });
- 
+
 }
 
 function emptyerror() {
