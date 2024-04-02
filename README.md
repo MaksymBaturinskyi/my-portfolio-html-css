@@ -1,4 +1,4 @@
-# Maksym Baturinskyi's Portfolio
+# Maksym Baturinskyi Portfolio
 
 Welcome to the repository for my personal portfolio website.
 ## Demo link
