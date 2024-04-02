@@ -1,10 +1,8 @@
 # Maksym Baturinskyi Portfolio
 
 Welcome to the repository for my personal portfolio website.
-## Demo link
- - [Portfolio](https://maksymbaturinskyi.github.io/my-portfolio-html-css/)
 
-## Demo link
+## Technologies
 
 - HTML5 & CSS3 for structure and design.
 - JavaScript for interactivity.
