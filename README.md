@@ -2,7 +2,7 @@
 
 Welcome to the repository for my personal portfolio website.
 ## Demo link
- - [Portfolio](http://todomvc.com/examples/vanillajs/)
+ - [Portfolio](https://maksymbaturinskyi.github.io/my-portfolio-html-css/)
 
 ## Demo link
 
