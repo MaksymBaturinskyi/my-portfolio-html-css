@@ -4,7 +4,7 @@
   "description": "My personal portfolio website",
   "main": "index.js",
   "scripts": {
-    "start": "open index.html",
+    "start": "open src/index.html",
     "deploy": "gh-pages -d ."
   },
   "author": "Your Name",
